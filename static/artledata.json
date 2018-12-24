@@ -1,0 +1,14 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "id":1,
+      "title":"webpack安装vue",
+      "content":"# 全局安装 vue-cli <br> npm install -g vue-cli <br># 创建一个基于 Webpack 模板的项目vue init webpack my-project <br># 安装依赖cd my-projectnpm install<br># 运行npm run dev"
+    },{
+      "id":2,
+      "title":"煎饼果子",
+      "content":"有时就为了一句狠话，像心头一口毒钉，永远麻痺着亲密感情交流。恶言，真要慎出，平日多誠心爱语，乃最简易之佈施"
+    }
+  ]
+}
