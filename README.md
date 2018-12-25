@@ -1,6 +1,7 @@
 # blog
 
 > A Vue.js project
+# 博客项目
 
 ## Build Setup
 
