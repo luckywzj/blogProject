@@ -2,7 +2,7 @@
 
 > A Vue.js project
 # 博客项目
-
+最近空闲时间较多，就想用vue创建自己的博客，
 ## Build Setup
 
 ``` bash
